@@ -90,4 +90,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </tr>
 </table>
 
-# crtech-2.0
